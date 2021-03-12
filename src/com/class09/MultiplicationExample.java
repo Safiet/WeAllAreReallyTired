@@ -1,0 +1,19 @@
+package com.class09;
+
+public class MultiplicationExample {
+
+	public static void main(String[] args) {
+		/*
+		 *  1x1=1
+		 *  2X2=2
+		 */
+		
+		for(int a=1;a<10;a++) {
+			for(int b=1;b<10;b++) {
+				System.out.println(a+"x"+b+"="+(a*b));
+			}
+		}
+
+	}
+
+}
