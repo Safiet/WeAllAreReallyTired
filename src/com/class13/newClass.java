@@ -1,9 +1,13 @@
 package com.class13;
 
+import java.util.Scanner;
+
 public class newClass {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+String s="hi";
+Scanner scaner=new Scanner (System.in);
 
 	}
 
