@@ -12,6 +12,9 @@ public class UpperLowerCase {
 		System.out.println(var1);
         var1=var1.toUpperCase();
         System.out.println(var1);
+
+	
+        
 	}
 
 }

@@ -5,11 +5,9 @@ public class SstringVsStringbuilder {
 	public static void main(String[] args) {
 		
 		
-		for (int i=0; i<10000000; i++) {
-			String s=new String(String.valueOf(i));
-			System.out.println(s);
-		}
-		
+		String[] firstNames=new String[3500000];
+		String[] LastName=new String[3500000];
+		String country="USA";
 		
 	}
 
