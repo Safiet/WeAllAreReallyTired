@@ -15,6 +15,8 @@ public class Task3_6_2021 {
 				{ 55, 91, 73, 64 } };
 		
 		int oddCount = 0;
+		int sum=0;
+		int odd=0;
 		for (int r = 0; r < numbers.length; r++) {
 			for (int a = 0; a < numbers[r].length; a++) {
 				if (numbers[r][a] % 2 == 0) {
