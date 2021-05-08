@@ -1,4 +1,4 @@
-package com.class30;
+package com.class30.Recap.Tasks;
 
 public class Class1 {
 }

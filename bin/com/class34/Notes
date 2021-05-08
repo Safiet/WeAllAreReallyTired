@@ -1,0 +1,18 @@
+Exception handling
+Exception handling is an event that occurs at runtime and discrupts the normal flow of our programs.
+avoiding this behaviour and converting the error messages to user friendly messages is called exception handling.
+
+try
+catch
+finally
+throw
+throws
+
+try{
+code body
+}catch(Type of Exception e){
+}
+IndexOutOfBound
+NullPointerException
+IllegalArgumentException
+Arithmetic exception
